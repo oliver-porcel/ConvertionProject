@@ -1,0 +1,8 @@
+"/Users/manu/git/actionbarextras/example/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/manu/git/actionbarextras/example/build/android/gen/com/alcoapps/actionbarextras/test/ActionbarextrastestActivity.java"
+"/Users/manu/git/actionbarextras/example/build/android/gen/com/alcoapps/actionbarextras/test/ActionbarextrastestAppInfo.java"
+"/Users/manu/git/actionbarextras/example/build/android/gen/com/alcoapps/actionbarextras/test/ActionbarextrastestApplication.java"
+"/Users/manu/git/actionbarextras/example/build/android/gen/com/alcoapps/actionbarextras/test/ApplicationStylesheet.java"
+"/Users/manu/git/actionbarextras/example/build/android/gen/com/alcoapps/actionbarextras/test/AssetCryptImpl.java"
+"/Users/manu/git/actionbarextras/example/build/android/gen/com/alcoapps/actionbarextras/test/R.java"
+"/Users/manu/git/actionbarextras/example/build/android/gen/ti/modules/titanium/ui/R.java"

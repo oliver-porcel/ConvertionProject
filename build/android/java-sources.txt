@@ -1,0 +1,8 @@
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/android/support/v7/cardview/R.java"
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/com/oliverporcel/ConvertionProject/AssetCryptImpl.java"
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/com/oliverporcel/ConvertionProject/ConvertionprojectActivity.java"
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/com/oliverporcel/ConvertionProject/ConvertionprojectAppInfo.java"
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/com/oliverporcel/ConvertionProject/ConvertionprojectApplication.java"
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/com/oliverporcel/ConvertionProject/R.java"
+"C:/Users/Oliver/Documents/Appcelerator_Studio_Workspace/ConvertionProject/build/android/gen/ti/modules/titanium/ui/R.java"
